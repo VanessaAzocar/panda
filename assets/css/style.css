@@ -1,0 +1,42 @@
+.container-fluid{
+  background-color: #F88E67;
+}
+.titulo{
+  color: white;
+  text-align: right;
+}
+.search{
+  text-align: center;
+  width: 100%;
+}
+.containerTexto{
+  background-color: #ABE189;
+}
+.panda{
+  text-align: center;
+background-color:#F88E67;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.vacio{
+  height: 50px;
+}
+.cuatroimagenes{
+  text-align: center;
+  color: white;
+}
+.uno{
+  border: 5px solid white;
+  border-radius: 3px;
+}
+.pictures{
+  text-align: center;
+  color: white;
+}
+
+.barraInferior{
+  background-color: #F88E67;
+  color: white;
+  text-align: right;
+  
+}
